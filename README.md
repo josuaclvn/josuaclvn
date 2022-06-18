@@ -1,4 +1,4 @@
-# Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>Welcome to my page! </br> I'm Josua, Student and Tech Enthusiast from <img src=https://cdn-icons-png.flaticon.com/512/323/323372.png width="13"/> <b>Indonesia</b>, currently living in <b>Bali</b>.</p>
 <h3>👨‍💻 Languages, Software and Tools</h3>
